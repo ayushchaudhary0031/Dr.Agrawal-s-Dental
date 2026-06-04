@@ -1,0 +1,8 @@
+{
+  "name": "Agrawal Dental",
+  "description": "Dr. Agrawal's Dental Health Clinic & Implant Centre",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
